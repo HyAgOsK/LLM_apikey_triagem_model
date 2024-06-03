@@ -1,0 +1,83 @@
+[
+    {
+         "pergunta": "Febre",
+         "dica": "Se sua temperatura está acima de 38°C, recomendamos que você visite o hospital mais próximo para uma avaliação mais detalhada. Caso contrário, considere visitar uma unidade de pronto atendimento (UPA) ou entrar em contato com seu médico."
+       },
+       {
+         "pergunta": "Peito",
+         "dica": "Se você está sentindo dor no peito, ligue para os serviços de emergência imediatamente, pois isso pode ser um sinal de uma condição grave. Se não for o caso, considere agendar uma consulta com seu médico de cuidados primários."
+       },
+       {
+         "pergunta": "Tosse",
+         "dica": "Se você tem falta de ar ou dor no peito ao tossir, recomendamos que visite o hospital mais próximo para uma avaliação detalhada. Caso contrário, considere visitar uma UBS para uma consulta."
+       },
+       {
+         "pergunta": "Abdominal",
+         "dica": "Se a dor abdominal é severa e contínua, visite o pronto-socorro imediatamente. Caso contrário, considere agendar uma consulta com seu médico ou visitar uma UBS."
+       },
+       {
+         "pergunta": "Acidente",
+         "dica": "Se você sofreu um acidente recentemente e está sentindo dor ou desconforto significativos, visite o pronto-socorro mais próximo imediatamente. Caso contrário, considere visitar uma UBS ou UPA para uma avaliação."
+       },
+       {
+         "pergunta": "Alergia",
+         "dica": "Se você está apresentando sinais de alergia como dificuldade para respirar ou inchaço no rosto, ligue para os serviços de emergência imediatamente. Caso contrário, considere tomar um anti-histamínico e agendar uma consulta com seu médico."
+       },
+       {
+         "pergunta": "Atestado",
+         "dica": "Se você precisa de um atestado médico, considere visitar uma UBS para obter o atestado, evitando sobrecarregar os pronto-socorros."
+       },
+       {
+         "pergunta": "Cabeça",
+         "dica": "Se a dor de cabeça é forte e persistente, considere visitar o hospital para uma avaliação detalhada. Caso contrário, tome um analgésico e descanse. Se a dor persistir, agende uma consulta com seu médico."
+       },
+       {
+         "pergunta": "Tontura",
+         "dica": "Se você está sentindo fraqueza ou tontura e desmaiou ou está tendo dificuldade para ficar de pé, visite o pronto-socorro imediatamente. Caso contrário, descanse e hidrate-se. Se os sintomas persistirem, consulte seu médico."
+       },
+       {
+         "pergunta": "Costas",
+         "dica": "Se você está com dor nas costas que é intensa ou irradia para as pernas, considere visitar uma UPA ou hospital para avaliação. Caso contrário, aplique uma compressa quente e descanse. Se a dor persistir, consulte um médico."
+       },
+       {
+         "pergunta": "Vômito",
+         "dica": "Se você está com náusea ou vômito graves e não consegue manter líquidos, visite o pronto-socorro imediatamente. Caso contrário, hidrate-se bem e descanse. Se os sintomas persistirem, consulte um médico."
+       },
+       {
+         "pergunta": "Ouvido",
+         "dica": "Se você está com dor de ouvido que é intensa e acompanhada de febre, visite uma UPA ou hospital. Caso contrário, agende uma consulta com um otorrinolaringologista para avaliação."
+       },
+       {
+         "pergunta": "Urinar",
+         "dica": "Se você está com dificuldade para urinar e sentindo dor intensa ou não consegue urinar, visite o pronto-socorro imediatamente. Caso contrário, agende uma consulta com um urologista."
+       },
+       {
+         "pergunta": "Gripe",
+         "dica": "Se você está com sintomas de gripe, febre alta e dificuldade para respirar, visite o hospital. Caso contrário, descanse, hidrate-se bem e consulte seu médico se necessário."
+       },
+       {
+         "pergunta": "Inchaço",
+         "dica": "Se você está com inchaço repentino em qualquer parte do corpo, especialmente se acompanhado de dor, visite o pronto-socorro. Caso contrário, monitore o inchaço e consulte um médico se persistir."
+       },
+       {
+         "pergunta": "Sangramento",
+         "dica": "Se você está com sangramento que não para com pressão, visite o pronto-socorro imediatamente. Caso contrário, limpe e cubra a ferida e consulte um médico se necessário."
+       },
+       {
+         "pergunta": "Desmaio",
+         "dica": "Se você desmaiou recentemente, especialmente sem causa aparente, visite o pronto-socorro para uma avaliação. Caso contrário, consulte seu médico para exames complementares."
+       },
+       {
+         "pergunta": "Infecção",
+         "dica": "Se você suspeita de uma infecção e está apresentando febre alta, vermelhidão ou pus, visite o hospital. Caso contrário, consulte um médico para tratamento adequado."
+       },
+       {
+         "pergunta": "Fratura",
+         "dica": "Se você suspeita de uma fratura, imobilize a área afetada e visite o pronto-socorro imediatamente."
+       },
+       {
+         "pergunta": "Queimadura",
+         "dica": "Se a queimadura é grave ou cobre uma área extensa, visite o pronto-socorro. Caso contrário, aplique água fria e umedeça a área, e consulte um médico se necessário."
+       }
+   
+     ]
