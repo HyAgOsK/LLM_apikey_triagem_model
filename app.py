@@ -47,7 +47,7 @@ if "chat" not in st.session_state:
 ])
 
 # Título e Subtítulo
-st.title(":blue[Mapa do] :violet[Sucesso] :heart: :hospital: 📍")
+st.title(":blue[Alerta] :violet[Saúde] :heart: :hospital: 📍")
 st.subheader("Informe em uma linha apenas, sua necessidade :memo:")
 
 # Instruções formatadas
