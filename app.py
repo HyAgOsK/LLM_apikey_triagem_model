@@ -48,7 +48,7 @@ if "chat" not in st.session_state:
 
 # Título e Subtítulo
 st.title(":blue[tr] :violet[IA] :blue[gem] :heart: :hospital: 📍")
-st.subheader("Informe em uma linha apenas, sua necessidade :memo:")
+st.subheader("Descreva sua necessidade abaixo :memo:")
 
 # Instruções formatadas
 st.markdown("""
