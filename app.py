@@ -1,14 +1,14 @@
 import streamlit as st
 import os
 import google.generativeai as genai
-
-
+import environ
+from constrants import API_KEY
 # App title
 st.set_page_config(page_title="Triagem Chat 📍", page_icon=":heavy_heart_exclamation_mark_ornament:")
 
 
 # Initialize Gemini-Pro 
-genai.configure(api_key="AIzaSyAcM8fqwyZw5ehRpP5mnX9Zc5G87DKMSow")
+genai.configure(api_key=API_KEY)
 generation_config = {
     "candidate_count": 1,  # Número de sugestões a serem geradas
     "temperature": 0.5,   # Nível de criatividade (0 = mais conservador, 1 = mais criativo)
