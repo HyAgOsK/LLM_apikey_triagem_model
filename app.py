@@ -4,7 +4,7 @@ import google.generativeai as genai
 
 
 # App title
-st.set_page_config(page_title="Mapa do Sucesso📍", page_icon=":heavy_heart_exclamation_mark_ornament:")
+st.set_page_config(page_title="Triagem Chat 📍", page_icon=":heavy_heart_exclamation_mark_ornament:")
 
 
 # Initialize Gemini-Pro 
@@ -47,7 +47,7 @@ if "chat" not in st.session_state:
 ])
 
 # Título e Subtítulo
-st.title(":blue[Alerta] :violet[Saúde] :heart: :hospital: 📍")
+st.title(":blue[tr] :violet[IA] :blue[gem] :heart: :hospital: 📍")
 st.subheader("Informe em uma linha apenas, sua necessidade :memo:")
 
 # Instruções formatadas
