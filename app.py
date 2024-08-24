@@ -5,7 +5,12 @@ import environ
 from constrants import API_KEY
 # App title
 st.set_page_config(page_title="Triagem Chat 📍", page_icon=":heavy_heart_exclamation_mark_ornament:")
+# Carrega as variáveis de ambiente do arquivo .env
+env = environ.Env()
+environ.Env.read_env()
 
+# Carrega a chave da variável de ambiente
+API_KEY = env("API_KEY")
 
 # Initialize Gemini-Pro 
 genai.configure(api_key=API_KEY)
